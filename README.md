@@ -27,9 +27,8 @@ A conversational AI chat assistant built with a Gradio web interface, showcasing
 | Google Gemini API | Cloud LLM backend (`gemini-2.5-flash-lite`) |
 | Ollama | Local LLM backend (`llama3.2`) |
 
----
-
 Although these are main import, the lib folder has all the proper modules and packages and their related dependencies
+---
 
 ### Choosing your backend
 
