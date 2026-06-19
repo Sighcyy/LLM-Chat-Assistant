@@ -29,6 +29,8 @@ A conversational AI chat assistant built with a Gradio web interface, showcasing
 
 ---
 
+Although these are main import, the lib folder has all the proper modules and packages and their related dependencies
+
 ### Choosing your backend
 
 #### ☁️ Option A — Gemini (Cloud)
